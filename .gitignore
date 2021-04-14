@@ -23,7 +23,7 @@
 
 # Libraries
 *.lib
-*.a
+# *.a (do not ignore the required soem library)
 *.la
 *.lo
 
