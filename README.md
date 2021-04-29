@@ -11,3 +11,5 @@ Usage instructions:
 4. Open the EtherCAT Master block, and in the "Libraries" tab adjust the INC_PATHs to the correct paths of the SOEM include folders.
 5. Build the SOEM_raspberrypi Sfunction.
 6. Deploy the model to the Raspberry Pi hardware.
+
+[![View Simple EtherCAT Master Block SFunction for Raspberry Pi on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75376-simple-ethercat-master-block-sfunction-for-raspberry-pi)
