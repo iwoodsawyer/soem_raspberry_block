@@ -1,6 +1,7 @@
+# Simple EtherCAT Master Block SFunction for Raspberry Pi
+
 [![View Simple EtherCAT Master Block SFunction for Raspberry Pi on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75376-simple-ethercat-master-block-sfunction-for-raspberry-pi)
 
-# Simple EtherCAT Master Block SFunction for Raspberry Pi
 The example Simple EtherCAT Slave Driver Block SFunction for Raspberry Pi shows basic usage of the Simple Open EtherCAT Master (SOEM) library by transferring 32 bytes of input and output PDO data.
 
 Usage instructions:
